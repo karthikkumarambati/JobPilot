@@ -1,0 +1,5 @@
+.env
+/storage/*
+!/storage/resumes/.gitkeep
+*.log
+.DS_Store
